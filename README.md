@@ -8,6 +8,7 @@ FinTrack provides a seamless experience for users to manage their finances effic
 ## ✨ Key Features
 * **Secure Authentication**: Built-in user Sign-up and Login powered by Firebase Auth.
 * **Real-time Dashboard**: Track your account balance and monthly spending at a glance.
+
 * **Hybrid Data Storage**: Lightning-fast performance using **Hive** (Local) synced with **Firestore** (Cloud).
 * **Interactive Visuals**: Beautiful financial insights using `fl_chart`.
 * **Transaction Management**: Easily Add, View, and Delete transactions.
@@ -37,6 +38,7 @@ FinTrack provides a seamless experience for users to manage their finances effic
 
 ## 📸 App Preview
 ![FinTrack App Preview](<img width="1200" height="1200" alt="Hamza Ali (5)" src="https://github.com/user-attachments/assets/03c876ff-0763-491a-b664-ba8a32c768b8" />)
+<img width="1200" height="1200" alt="Hamza Ali (5)" src="https://github.com/user-attachments/assets/64f0c8f2-3991-488e-becf-4992227dfafc" />
 
 ## 🚀 How to Run
 1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/FinTrack.git`
