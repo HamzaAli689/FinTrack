@@ -37,7 +37,7 @@ FinTrack provides a seamless experience for users to manage their finances effic
 * **Charts**: fl_chart
 
 ## 📸 App Preview
-![FinTrack App Preview](<img width="1200" height="1200" alt="Hamza Ali (5)" src="https://github.com/user-attachments/assets/03c876ff-0763-491a-b664-ba8a32c768b8" />)
+![FinTrack App Preview]
 <img width="1200" height="1200" alt="Hamza Ali (5)" src="https://github.com/user-attachments/assets/64f0c8f2-3991-488e-becf-4992227dfafc" />
 
 ## 🚀 How to Run
