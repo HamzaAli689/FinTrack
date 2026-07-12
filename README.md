@@ -1,4 +1,4 @@
-# todo
+# FinTrack
 
 A new Flutter project.
 
