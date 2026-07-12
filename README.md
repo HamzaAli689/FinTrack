@@ -1,17 +1,48 @@
-# FinTrack
+# FinTrack 🚀
 
-A new Flutter project.
+**FinTrack** is a professional personal finance management application built with **Flutter**. It is designed to help users track their daily expenses, manage their income, and visualize their financial health through interactive charts.
 
-## Getting Started
+## 📱 About the App
+FinTrack provides a seamless experience for users to manage their finances efficiently. It bridges the gap between local speed and cloud reliability by using a hybrid data storage approach.
 
-This project is a starting point for a Flutter application.
+## ✨ Key Features
+* **Secure Authentication**: Built-in user Sign-up and Login powered by Firebase Auth.
+* **Real-time Dashboard**: Track your account balance and monthly spending at a glance.
+* **Hybrid Data Storage**: Lightning-fast performance using **Hive** (Local) synced with **Firestore** (Cloud).
+* **Interactive Visuals**: Beautiful financial insights using `fl_chart`.
+* **Transaction Management**: Easily Add, View, and Delete transactions.
+* **Professional UI**: Clean, modern interface with a consistent Teal theme.
+* **State Management**: Scalable and responsive app architecture using **GetX**.
 
-A few resources to get you started if this is your first Flutter project:
+## 🖥️ Screen Overview
+| Screen Name | Description |
+| :--- | :--- |
+| **Splash Screen** | Professional brand logo animation. |
+| **Onboarding** | Welcome and Get Started flow. |
+| **Auth Screens** | Secure Sign-up and Login forms. |
+| **Dashboard** | Overview of balance, spending, and quick actions. |
+| **Add Transaction** | Form to log income/expenses with categories. |
+| **Finance Insights** | Visual breakdown via Pie charts and Spending Trends. |
+| **Transactions History** | Complete list of past financial activities. |
+| **Profile** | User management and account settings. |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 🛠️ Tech Stack
+* **Framework**: Flutter
+* **Language**: Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Backend**: Firebase (Auth & Firestore)
+* **Local Database**: Hive
+* **State Management**: GetX
+* **Charts**: fl_chart
+
+## 📸 App Preview
+![FinTrack App Preview](<img width="1200" height="1200" alt="Hamza Ali (5)" src="https://github.com/user-attachments/assets/03c876ff-0763-491a-b664-ba8a32c768b8" />)
+
+## 🚀 How to Run
+1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/FinTrack.git`
+2. Install dependencies: `flutter pub get`
+3. Configure your Firebase project and add `google-services.json` / `GoogleService-Info.plist`.
+4. Run the app: `flutter run`
+
+---
+*Developed by **Hamza Ali** | Flutter Developer*
